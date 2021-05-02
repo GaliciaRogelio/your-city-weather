@@ -1,0 +1,21 @@
+html, body, .container-fluid, .content-row {
+    height: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.city-btn:hover {
+    background-color: #f6f5f5;
+    cursor:pointer;
+}
+
+.card {
+    background-color: #303a77;
+    color: snow;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #2961c2, #25004f);
+}
